@@ -1,0 +1,1 @@
+General;%Performer%,%Latitude%,%Longitude%,%Elevation (m)%,%Time Zone%,%Genre%,%Country%,%Email%,%GPSDO%,%Sound Card%,%Antenna%,%Rig%,%AGC%
