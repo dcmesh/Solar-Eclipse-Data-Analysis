@@ -1,0 +1,20 @@
+General;%Performer%,%Latitude%,%Longitude%,%Elevation (m)%,%Time Zone%,%Genre%,%Country%,%Email%,%GPSDO%,%Sound Card%,%Antenna%,%Rig%,%AGC%
+9h1pi,35.9306,14.4764,53,UTC +01:00,Icom 7100,Malta,ivan.privitera@gmail.cpm,No,Icom 7100 ,Wire Dipole,Icom 7100 ,On
+AA8K,42.996034,-82.464330,156,UTC -05:00,OpenHPSDR Mercury with GPSDO,USA,AA8K@comcast.net,Yes,xxxxxxxxxxxxxxxx,Vertical 1/4 wave,OpenHPSDR,Off
+AC8ZU,39.35.15,-84.11.16,1036,UTC -05:00,Yaesu FTdx 1200 without GPSDO,USA,hamsci@case.edu,No,ICOM7300,HOA 27 foot vertical with radials,ICOM-7300,Off
+AD0CY,39.20435,-104.92770,2095,UTC -07:00,Yaesu FT-891 without GPSDO,USA,danlayne1@gmail.com,No,Signalink USB,End Fed Half Wave 8010,Yaesu FT-891,Off
+,,,,,,,,,,,,
+AJ6AN,32.864932,-116.419600,1760,UTC -08:00,Icom 7300,USA,rowdyratts@gmaill.com,No,Icom 7300,Wire,Icom 7300,6s
+CA6JAU,-39.807629,-73.265193,15,UTC -03:00,IC-7300 without GPSDO,Chile,juribeparada@gmail.com,No,IC-7300 internal interface,Magnetic loop (Alpha Antenna),IC-7300,Off
+,,,,,SDR RSP1A SDRPLAY,,,,,,,
+CE2MHW,-33.0556,-71.3394,179,UTC -04:00,Yaesu FT-991A,Chile,ce2mhw@amsat.org,No,,Wire,Yaesu FT-991A,Off
+DO1REH,53.409321,9.925641,55,UTC +01:00,ICOM IC--705 without GPSDO,Germany,do1reh@darc.de,No,ICOM IC-705,G5RV,ICOM IC-705,Off
+DV1YKL,14.565682147148474,121.01935029029848,11,UTC +08:00,Yaesu FT-450D,Philippines,bosshardhans@gmail.com,No,Line In to PC,Aircore K1POO Off-Center Fed Dipole, long leg pointing magnetic north,Yaesu FT-450D,On
+EA7QL,36.5299,-6.29241,30,UTC +01:00,Icom IC-746 with TXCO,SPAIN,emilio.ea7ql@gmail.com,No,RigExpert Standard,Wire,Icom IC-746,Off
+F1ABL,44.234605,05.183701,286,UTC +01:00,Yaesu FT 857D without GPSDO,FRANCE,micheluze@msn.com,No,SIGNALINK ,Wire,Yaesu FT 857D,Off
+F4IEW,49.02449,2.324335,161,UTC +1:00,Yaesu FTdx 1200 without GPSDO,FR,franck@f4iew.fr,No,UGreen,W3DZZ,Yaesu FT857D,Off
+G1KOT,51.5655654,0.4303020,100,UTC -00:00,ICOM 746 without GPSDO,uk,g1kot@mikelynn.net,No,USB,MQ-26,IC-746,Off
+J. Bruhling SWL/SWV,39.42956,-105.055541,1636,UTC-07:00,RTL SDR V3,USA,phonogruvin@gmail.com,no,Realtek HD 6.XXXX,7.104m vertical wire,RTL SDR V3,OFF
+
+VE5SAR,50.4374,-104.53308,583,UTC -06:00,Kenwood TS-570D without GPSDO,Canada,jc.herperger@accesscomm.ca,No,SignaLink USB,34' vertical mast with four 12' capacity hat wires,Kenwood TS-570D without GPSDO,On
+VK2HRX,-33.79506,151.10287,90,UTC +10,ICOM 9100,Australia,comptonallen@optusnet.com.au,No,Yaesu SCU-17,Wire,ICOM 9100,Off
