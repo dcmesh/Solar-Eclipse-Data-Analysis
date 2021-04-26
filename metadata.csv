@@ -1,9 +1,10 @@
 General;%Performer%,%Latitude%,%Longitude%,%Elevation (m)%,%Time Zone%,%Genre%,%Country%,%Email%,%GPSDO%,%Sound Card%,%Antenna%,%Rig%,%AGC%
+,,,,,,,,,,,,
+SV2BBO,40.5928996193367,22.96160111916656,20,UTC +02:00,Kenwood TS-2000 without GPSDO,GREECE,sv2bbo@iama.gr,No,RigExpert TI-5 USB Audio CODEC,Inverted V dipole for 30m,Kenwood TS-2000 with Built-in TCXO,Yes Fast
 9h1pi,35.9306,14.4764,53,UTC +01:00,Icom 7100,Malta,ivan.privitera@gmail.cpm,No,Icom 7100 ,Wire Dipole,Icom 7100 ,On
 AA8K,42.996034,-82.464330,156,UTC -05:00,OpenHPSDR Mercury with GPSDO,USA,AA8K@comcast.net,Yes,xxxxxxxxxxxxxxxx,Vertical 1/4 wave,OpenHPSDR,Off
 AC8ZU,39.35.15,-84.11.16,1036,UTC -05:00,Yaesu FTdx 1200 without GPSDO,USA,hamsci@case.edu,No,ICOM7300,HOA 27 foot vertical with radials,ICOM-7300,Off
 AD0CY,39.20435,-104.92770,2095,UTC -07:00,Yaesu FT-891 without GPSDO,USA,danlayne1@gmail.com,No,Signalink USB,End Fed Half Wave 8010,Yaesu FT-891,Off
-,,,,,,,,,,,,
 AJ6AN,32.864932,-116.419600,1760,UTC -08:00,Icom 7300,USA,rowdyratts@gmaill.com,No,Icom 7300,Wire,Icom 7300,6s
 CA6JAU,-39.807629,-73.265193,15,UTC -03:00,IC-7300 without GPSDO,Chile,juribeparada@gmail.com,No,IC-7300 internal interface,Magnetic loop (Alpha Antenna),IC-7300,Off
 ,,,,,SDR RSP1A SDRPLAY,,,,,,,
@@ -14,7 +15,21 @@ EA7QL,36.5299,-6.29241,30,UTC +01:00,Icom IC-746 with TXCO,SPAIN,emilio.ea7ql@gm
 F1ABL,44.234605,05.183701,286,UTC +01:00,Yaesu FT 857D without GPSDO,FRANCE,micheluze@msn.com,No,SIGNALINK ,Wire,Yaesu FT 857D,Off
 F4IEW,49.02449,2.324335,161,UTC +1:00,Yaesu FTdx 1200 without GPSDO,FR,franck@f4iew.fr,No,UGreen,W3DZZ,Yaesu FT857D,Off
 G1KOT,51.5655654,0.4303020,100,UTC -00:00,ICOM 746 without GPSDO,uk,g1kot@mikelynn.net,No,USB,MQ-26,IC-746,Off
+HH2MK,18.31'46",72.19'32",252,UTC -05:00,Yaesu FT891,Haiti,hh2mk@yahoo.com,No,Yaesu SCU-17,Wire,Yaesu FT891,auto
 J. Bruhling SWL/SWV,39.42956,-105.055541,1636,UTC-07:00,RTL SDR V3,USA,phonogruvin@gmail.com,no,Realtek HD 6.XXXX,7.104m vertical wire,RTL SDR V3,OFF
 
+PJ2SM,12 07.75 North,068 52.87,,,ICOM IC-7300,,pj2sm@yahoo.com,,,Rotary Dipole,,On (MID)
+PY2ZX,-23,2,-46,88333333,740,UTC -03:00,Icom IC-706MKIIG without GPSDO,Brazil,py2zx.ham@gmail.com,No,,Dipole,Icom IC-706MKIIG,On
+TG9ANF,14.527,-90.450,1930,UTC -06:00,Yaesu FT 950,Guatemala,tg9anf@gmail.com,No,SignaLink USB,Wire,Yaesu FT-450D,Off
+VA3EDB,44.321820,-79.724396,991,UTC -05:00,Icom 7300 without GPSDO,Canada,va3edb@gmail.com,No,Icom 7300,Vertical,Icom 7300,On
+VE3FYN,41.501454,-81.607368,207,UTC -05:00,Icom IC7600 without GPSDO,USA,hamsci@case.edu,No,Yaesu SCU-17,Wire,Yaesu FTdx1200,Off
+VE3YX,46.1,77.5,110 m,UTC -05:00,TS-870 eith GPSDO,Canada,hamsci@case.edu,Yes,3D-SOUND,Wire,TS-780,Off
+Gordon S,49.24712,-97.18510,241,UTC -06:00,Radio Shack,Canada,gsnarr@gninc.ca,No,computer internal,magnetic loop,DX-394,Off
 VE5SAR,50.4374,-104.53308,583,UTC -06:00,Kenwood TS-570D without GPSDO,Canada,jc.herperger@accesscomm.ca,No,SignaLink USB,34' vertical mast with four 12' capacity hat wires,Kenwood TS-570D without GPSDO,On
+VE6IXD,51.09465,-114.2405,1104,UTC -07:00,Flexradio 5000a without gpsdo,Canada,hamsci@case.edu,No,Computer mother board,Wire,Flexradio 5000a,Off
+,,,,,Yaesu FT 991A without GPSDO,,,,,,,
 VK2HRX,-33.79506,151.10287,90,UTC +10,ICOM 9100,Australia,comptonallen@optusnet.com.au,No,Yaesu SCU-17,Wire,ICOM 9100,Off
+VK5FPAW,-34.8055465,138.6019138,207,UTC +1030,Yaesu FT817 without GPSDO,USA,paul@mawsonlakes.org,No,,Wire,Yaesu FT817,On
+VK7KPC,-42.56917,147.2423,170,UTC +11.00,NRD-515 rx without GPSDO,Australia,dodd.pc@bigpond.com,No,Dell Optiplex 720 inbuilt,Vertical ,NRD-515 rx,on
+W0EJO,41.501454,-81.607368,207,UTC -06:00,Icom,USA,heider@wustl.edu,No,Yaesu SCU-17,Mosley Vertical RV4C,Icom,Off
+W1CS,42.940849,-71.530487,85,UTC -05:00,HF+ Discovery SDR,USA,craig.shaffer@gmail.com,No,Direct Sample,80M doublet tuned for 10Mhz,HF+ Discovery SDR,Off
